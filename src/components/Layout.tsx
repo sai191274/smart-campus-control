@@ -1,4 +1,4 @@
-mport { NavLink, useLocation } from 'react-router-dom';
+import { NavLink, useLocation } from 'react-router-dom';
 import { Home, Camera, DollarSign, Settings, ClipboardList } from 'lucide-react';
 import { useIsMobile } from '@/hooks/use-mobile';
 
